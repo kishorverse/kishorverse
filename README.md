@@ -176,10 +176,10 @@ Classifies infant cry audio into underlying needs using librosa feature extracti
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/kishorverse?style=for-the-badge&logo=github&color=38BDF8&labelColor=0A1521" />
-<img src="https://img.shields.io/github/stars/kishorverse?style=for-the-badge&logo=github&color=38BDF8&labelColor=0A1521" />
-<img src="https://img.shields.io/badge/Public%20Repos-8-38BDF8?style=for-the-badge&logo=github&labelColor=0A1521" />
-<img src="https://img.shields.io/badge/Focus-Applied%20AI-38BDF8?style=for-the-badge&labelColor=0A1521" />
+<img src="https://img.shields.io/badge/GATE%202026-Qualified-38BDF8?style=for-the-badge&labelColor=0A1521" />
+<img src="https://img.shields.io/badge/DravidianLangTech%20%40%20NAACL-Rank%201-38BDF8?style=for-the-badge&labelColor=0A1521" />
+<img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20Agentic%20Systems-38BDF8?style=for-the-badge&labelColor=0A1521" />
+<img src="https://img.shields.io/github/followers/kishorverse?style=for-the-badge&logo=github&color=38BDF8&labelColor=0A1521&label=FOLLOW" />
 
 <br/><br/>
 
