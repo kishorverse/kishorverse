@@ -172,7 +172,7 @@ Classifies infant cry audio into underlying needs using librosa feature extracti
 
 ---
 
-## 📊 GitHub
+## 🏅 Highlights
 
 <div align="center">
 
@@ -181,9 +181,11 @@ Classifies infant cry audio into underlying needs using librosa feature extracti
 <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20Agentic%20Systems-38BDF8?style=for-the-badge&labelColor=0A1521" />
 <img src="https://img.shields.io/github/followers/kishorverse?style=for-the-badge&logo=github&color=38BDF8&labelColor=0A1521&label=FOLLOW" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorverse&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+<div align="center">
+
+**Open to collaborations in applied AI research, agentic systems and production ML.**
 
 </div>
 
