@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kishor%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20" width="100%" />
-
-<a href="https://github.com/kishorverse">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%40+Tiramai.ai;Multi-Agent+Systems%2C+RAG+%26+LLM+Fine-Tuning;Computer+Vision+%7C+NLP+%7C+Deep+Learning;B.Tech+CSE+(AI)+%40+Amrita+Vishwa+Vidyapeetham" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/kishorverse/kishorverse/main/profile-header.png" alt="Kishor S — AI/ML Engineer" width="100%" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/kishor-s-97237b263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kishorverse2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://aclanthology.org/2025.dravidianlangtech-1.122/"><img src="https://img.shields.io/badge/ACL%20Anthology-D5232B?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<a href="https://github.com/kishorverse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=kishorverse&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
 </div>
@@ -177,20 +172,18 @@ Classifies infant cry audio into underlying needs using librosa feature extracti
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kishorverse&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorverse&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=38BDF8" />
+<img src="https://img.shields.io/github/followers/kishorverse?style=for-the-badge&logo=github&color=38BDF8&labelColor=0A1521" />
+<img src="https://img.shields.io/github/stars/kishorverse?style=for-the-badge&logo=github&color=38BDF8&labelColor=0A1521" />
+<img src="https://img.shields.io/badge/Public%20Repos-8-38BDF8?style=for-the-badge&logo=github&labelColor=0A1521" />
+<img src="https://img.shields.io/badge/Focus-Applied%20AI-38BDF8?style=for-the-badge&labelColor=0A1521" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorverse&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kishorverse&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorverse&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 
 </div>
 
@@ -213,7 +206,5 @@ I'm open to collaborating on **applied AI research**, **agentic systems**, and *
 
 <a href="mailto:kishorverse2004@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kishor-s-97237b263/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
