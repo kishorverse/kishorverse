@@ -183,12 +183,6 @@ Classifies infant cry audio into underlying needs using librosa feature extracti
 
 </div>
 
-<div align="center">
-
-**Open to collaborations in applied AI research, agentic systems and production ML.**
-
-</div>
-
 ---
 
 ## 🎓 Education & Achievements
